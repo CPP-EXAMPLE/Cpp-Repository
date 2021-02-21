@@ -1,7 +1,6 @@
 #include <iostream> //Input-Output-Stream
 #include <conio.h> //VisualCode kullananlar ve getch(); komutunu kullanmak isteyenler icin kutuphane
 
-//keremerguner
 //consol out -- end line -- consol in //
 
 using namespace std; // Kullan - Bos bir isim - Standart 
