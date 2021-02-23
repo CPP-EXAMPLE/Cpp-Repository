@@ -1,0 +1,19 @@
+ICINDEKILER :
+
+	1-)ORNEKLER 
+	 ->Baslangic Hello World!
+	 ->Kare alanı ve cevresı hesaplama
+	 ->Basamak degerleri hesaplama
+	 ->Denklem olusturma ve cozme
+	 ->Kontrol yapıları - IF - ELSE IF - ELSE
+	 ->Ucgen olusturma
+
+	
+	2-)ORNEKLER
+	 ->()NESNE TABANLI ORNEKLER
+	     *Alistirma
+	     *Public-Private 
+	     *Public-Private Pointer'li Kullanımı
+	 
+
+	
