@@ -5,9 +5,11 @@ ICINDEKILER :
 	 ->Kare alanı ve cevresı hesaplama
 	 ->Basamak degerleri hesaplama
 	 ->Denklem olusturma ve cozme
-	 ->Kontrol yapıları - IF - ELSE IF - ELSE
+	 ->Kontrol yapıları
 	 ->Ucgen olusturma
 	 ->Hesap Makinası
+	 ->Rakam Okuma
+	 ->Muhasebe Programı
 
 	
 	2-)ORNEKLER

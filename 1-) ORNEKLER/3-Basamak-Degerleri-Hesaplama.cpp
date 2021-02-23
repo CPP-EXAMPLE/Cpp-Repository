@@ -1,7 +1,5 @@
 #include <iostream>
-#include <conio.h>
 
-//keremerguner
 
 using namespace std;
 
@@ -31,6 +29,5 @@ int main()
     cout << "5.Bas = " << l << endl;
     
 
-    getch();
     return 0;
 }

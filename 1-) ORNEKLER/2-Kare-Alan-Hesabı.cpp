@@ -1,7 +1,5 @@
 #include "iostream"
-#include "conio.h"
 
-//keremerguner
 
 using namespace std;
 
@@ -17,6 +15,5 @@ cout << "Kare'nin cevresi : " << 4*birkenari << endl << "Kare'nin Alani : "<< bi
 
 
 
-    getch();
     return 0;
 }

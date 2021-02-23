@@ -1,7 +1,6 @@
 #include <iostream>
 #include <conio.h>
 
-//keremerguner
 
 using namespace std;
 

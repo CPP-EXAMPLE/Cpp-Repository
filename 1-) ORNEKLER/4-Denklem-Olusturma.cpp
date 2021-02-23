@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 
 
 using namespace std;
@@ -16,6 +15,5 @@ int main()
 
     cout << " Denklem Sonucu : " <<( (2*x) + (0.5*y) - (7*t*z) ) ; 
 
-    getch();
     return 0;
 }
