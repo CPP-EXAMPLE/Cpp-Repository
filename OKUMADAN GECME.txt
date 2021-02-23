@@ -7,6 +7,7 @@ ICINDEKILER :
 	 ->Denklem olusturma ve cozme
 	 ->Kontrol yapıları - IF - ELSE IF - ELSE
 	 ->Ucgen olusturma
+	 ->Hesap Makinası
 
 	
 	2-)ORNEKLER
