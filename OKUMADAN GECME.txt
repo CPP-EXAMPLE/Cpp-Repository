@@ -10,6 +10,8 @@ ICINDEKILER :
 	 ->Hesap Makinası
 	 ->Rakam Okuma
 	 ->Muhasebe Programı
+	 ->Istenilen Sayiya Kadar Islem Yapma
+	 ->Girilen Sayiya Kadar Tek ve Cift Sayilarin Toplami
 
 	
 	2-)ORNEKLER
