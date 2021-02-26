@@ -12,6 +12,7 @@ ICINDEKILER :
 	 ->Muhasebe Programı
 	 ->Istenilen Sayiya Kadar Islem Yapma
 	 ->Girilen Sayiya Kadar Tek ve Cift Sayilarin Toplami
+	 ->Bilgisayarin Tuttugu Sayiyi Tahmin Etme
 
 	
 	2-)ORNEKLER

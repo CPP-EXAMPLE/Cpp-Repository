@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 
 
 using namespace std;
@@ -12,11 +13,13 @@ int main()
     
     
 
-    menu : 
+    
 
     cout << endl <<"<----Hesap Makinesi---->" << endl << endl;
+    
+    menu : 
 
-    cout <<"1-)Toplama"<< endl <<"2-)Cikarma"<< endl <<"3-)Carpma" << endl << "4-)Bolme" <<endl <<"5-)Karesini Alma"<< endl << endl;
+    cout <<"1-)Toplama"<< endl <<"2-)Cikarma"<< endl <<"3-)Carpma" << endl << "4-)Bolme" <<endl <<"5-)Karesini Alma\n" <<" 6-)Cikis"<< endl << endl;
 
     cout <<"Yapmak istediginiz islem NO'sunu giriniz : ";
 
@@ -33,6 +36,7 @@ int main()
         toplama = sayi1 + sayi2;
 
         cout << endl << "Toplama Islemi Sonucu : " << toplama;
+       
     }
     else if (islemNO == 2)
     {
@@ -44,6 +48,7 @@ int main()
         cikarma = sayi1 - sayi2;
 
         cout << endl << "Cikarma Islemi Sonucu : " << cikarma;
+        
     }
     else if (islemNO == 3)
     {
@@ -75,16 +80,29 @@ int main()
         kareAl = sayi1 * sayi1;
 
         cout << endl << "Kare Alma Islemi Sonucu : " << kareAl;
+        
     }
+    else if (islemNO == 6)
+    {
+        cout << "Cikis Yapiliyor ...";
+        goto cikis;
+    }
+    
     else 
     {
+    	
         cout << endl << "Hatali Giris ! Lutfen tekrar deneyiniz !"<< endl;
     }
 
     cout << endl << endl << "Yeni bir islem yapmak icin ENTER tusuna basiniz ! "<< endl;
     
     
+    
+    
+ 	getch();
+ 	goto menu;
 
-    goto menu ;
+    cikis : 
+    getch();
     return 0;
 }

@@ -1,4 +1,6 @@
 #include <iostream>
+#include <conio.h>
+
 
 using namespace std;
 
@@ -9,7 +11,7 @@ int sayi;
 int Toplam=0;
 
 cout << "1'den N'ye kadar olan sayilarin Toplami !"<<endl;
-cout << "Bir N sayisi giriniz : ";
+cout << "\nBir N sayisi giriniz : ";
 cin>>sayi;
 
 while (sayi>0)
@@ -19,5 +21,6 @@ while (sayi>0)
 }
  cout<< "SONUC : "<< Toplam;
 
+getch();
 return 0;
 }

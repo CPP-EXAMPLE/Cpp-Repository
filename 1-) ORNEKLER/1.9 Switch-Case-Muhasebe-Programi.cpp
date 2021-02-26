@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 
 //Depoda bulunun STOK malzeme hesabi yapan program
 
@@ -41,6 +42,6 @@ int main()
         break;
     }
 
-
+    getch();
     return 0;
 }

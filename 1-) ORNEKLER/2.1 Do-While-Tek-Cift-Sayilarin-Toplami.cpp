@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 
 // 1'den N'ye kadar olan Pozitif TEK ve CIFT sayilarin Toplamini Hesaplama
 
@@ -32,5 +33,6 @@ int main()
         cout << "Cift Sayilar Toplami --> "<< ciftToplam;
     
 
+    getch();
     return 0;
 }
