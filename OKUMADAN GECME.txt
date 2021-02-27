@@ -15,6 +15,7 @@ ICINDEKILER :
 	 ->Bilgisayarin Tuttugu Sayiyi Tahmin Etme
 	 ->Sayi Ozelliklerine Gore Islem Yaptırma
 	 ->Carpim Tablosu
+	 ->Okul Notu ve Harf Notu Hesaplayan Program
 
 	
 	2-)ORNEKLER
