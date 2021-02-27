@@ -13,6 +13,7 @@ ICINDEKILER :
 	 ->Istenilen Sayiya Kadar Islem Yapma
 	 ->Girilen Sayiya Kadar Tek ve Cift Sayilarin Toplami
 	 ->Bilgisayarin Tuttugu Sayiyi Tahmin Etme
+	 ->Sayi Ozelliklerine Gore Islem Yaptırma
 
 	
 	2-)ORNEKLER
